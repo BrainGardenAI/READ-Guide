@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Reporting
+title: Setup
 nav_order: 1
 parent: Project Lifecycle
 has_children: true
+permalink: pages/project_lifecycle/setup
 ---
 
-# Reporting
+# Setup
 {: .no_toc }
