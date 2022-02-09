@@ -1,1 +1,1 @@
-REsearch And Development software framework
+Misc resources for REasearch And Development Framework (READ Framework)
