@@ -2,6 +2,7 @@
 layout: default
 title: Research Workflow
 parent: Research & Development
+grand_parent: Project Lifecycle
 nav_order: 1
 ---
 
