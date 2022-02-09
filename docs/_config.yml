@@ -1,2 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
-color_scheme: light
+# color_scheme: light
+
+# Aux links for the upper right navigation
+aux_links:
+  "READ Framework on GitHub":
+    - "//github.com/BrainGardenAI/READ-framework"
