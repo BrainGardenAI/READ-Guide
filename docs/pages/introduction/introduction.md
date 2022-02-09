@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Project Lifecycle
-nav_order: 3
+title: Getting Started
+nav_order: 2
 has_children: true
-permalink: pages/project_lifecycle
+permalink: pages/introduction
 ---
 
-# Project Lifecycle
+# Getting Started
 {: .no_toc }
 
 <details open markdown="block">

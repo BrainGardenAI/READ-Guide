@@ -1,19 +1,10 @@
 ---
 layout: default
 title: Principles
-nav_order: 3
-#has_children: true
-permalink: pages/principles
+nav_order: 2
+parent: Getting Started
+permalink: pages/introduction/principles
 ---
 
 # Principles
 {: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
