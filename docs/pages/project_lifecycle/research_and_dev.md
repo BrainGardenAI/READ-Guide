@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Presale
+title: Research & Development
 nav_order: 1
 parent: Project Lifecycle
 has_children: true
-permalink: pages/project_lifecycle/presale
 ---
 
-# Presale
+# Research & Development
 {: .no_toc }

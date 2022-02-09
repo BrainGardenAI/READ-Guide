@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Research & Development
-parent: Project Lifecycle
+title: Research Workflow
+parent: Research & Development
 nav_order: 1
 ---
 
