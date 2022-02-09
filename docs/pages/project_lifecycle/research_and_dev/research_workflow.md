@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Solvability Estimation
+title: Research & Development
 parent: Project Lifecycle
 nav_order: 1
 ---
 
-# Solvability Estimation
+# Research Workflow
 {: .no_toc }
 
 ## Table of contents
@@ -16,4 +16,4 @@ nav_order: 1
 
 ---
 
-Solvability Estimation description
+Research Workflow description
