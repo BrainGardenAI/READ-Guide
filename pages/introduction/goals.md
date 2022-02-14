@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Goals
+title: Цели
 nav_order: 1
-parent: Getting Started
+parent: Введение
 permalink: pages/introduction/goals
 has_toc: false
 ---
 
-# Goals
+# Цели
 {: .no_toc }

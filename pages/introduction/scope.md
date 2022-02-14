@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Framework Scope
+title: Границы фреймворка
 nav_order: 3
-parent: Getting Started
+parent: Введение
 permalink: pages/introduction/scope
 has_toc: false
 ---
 
-# Framework Scope
+# Границы фреймворка
 {: .no_toc }

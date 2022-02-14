@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Principles
+title: Принципы
 nav_order: 2
-parent: Getting Started
+parent: Введение
 permalink: pages/introduction/principles
 has_toc: false
 ---
 
-# Principles
+# Принципы
 {: .no_toc }

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Framework Organization
+title: Организация фреймворка
 nav_order: 4
-parent: Getting Started
+parent: Введение
 permalink: pages/introduction/organization
 has_toc: false
 ---
 
-# Framework Organization
+# Организация фреймворка
 {: .no_toc }

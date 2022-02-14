@@ -1,11 +1,11 @@
 ---
 layout: default
-title: How to Use READ-Framework
+title: Как использовать READ-Framework
 nav_order: 5
-parent: Getting Started
+parent: Введение
 permalink: pages/introduction/howto
 has_toc: false
 ---
 
-# How to Use READ-Framework
+# Как использовать READ-Framework
 {: .no_toc }
