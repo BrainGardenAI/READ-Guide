@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: default
 title: Границы фреймворка
 nav_order: 3
@@ -8,4 +8,4 @@ has_toc: false
 ---
 
 # Границы фреймворка
-{: .no_toc }
+{: .no_toc } -->
