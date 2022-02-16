@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Glossary
-nav_order: 4
-# has_children: true
+title: Глоссарий
+nav_order: 6
+has_children: false
 has_toc: false
 permalink: pages/glossary
 ---
 
-# Glossary
+# Глоссарий
 {: .no_toc }

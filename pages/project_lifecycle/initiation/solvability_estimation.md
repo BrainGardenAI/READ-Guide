@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Solvability Estimation
-parent: Presale
-grand_parent: Project Lifecycle
+title: Анализ реализуемости
+parent: Инициация проекта
+grand_parent: Жизненный цикл проекта
 nav_order: 1
 ---
 
-# Solvability Estimation
+# Анализ реализуемости
 {: .no_toc }
 
-## Table of contents
+## Содержание
 {: .no_toc .text-delta }
 
 1. TOC

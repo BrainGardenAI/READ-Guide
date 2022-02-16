@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Research & Development
-nav_order: 3
-parent: Project Lifecycle
+title: Исследования и разработка
+nav_order: 2
+parent: Жизненный цикл проекта
 has_children: true
 permalink: pages/project_lifecycle/research_and_dev
 ---
 
-# Research & Development
+# Исследования и разработка
 {: .no_toc }

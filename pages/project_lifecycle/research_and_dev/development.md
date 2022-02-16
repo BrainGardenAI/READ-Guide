@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Development
-parent: Research & Development
-grand_parent: Project Lifecycle
+title: Разработка
+parent: Исследования и разработка
+grand_parent: Жизненный цикл проекта
 nav_order: 2
 ---
 
-# Development
+# Разработка
 {: .no_toc }

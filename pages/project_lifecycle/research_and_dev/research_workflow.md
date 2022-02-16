@@ -1,20 +1,10 @@
 ---
 layout: default
-title: Research Workflow
-parent: Research & Development
-grand_parent: Project Lifecycle
+title: Организация процесса исследования
+parent: Исследования и разработка
+grand_parent: Жизненный цикл проекта
 nav_order: 1
 ---
 
-# Research Workflow
+# Организация процесса исследования
 {: .no_toc }
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-Research Workflow description
