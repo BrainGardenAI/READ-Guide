@@ -2,7 +2,7 @@
 layout: default
 title: Разработка
 parent: Исследования и разработка
-grand_parent: Жизненный цикл проекта
+grand_parent: Управление жизненным циклом проекта
 nav_order: 2
 ---
 

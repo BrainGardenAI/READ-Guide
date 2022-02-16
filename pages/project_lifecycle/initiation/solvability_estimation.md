@@ -2,7 +2,7 @@
 layout: default
 title: Анализ реализуемости
 parent: Инициация проекта
-grand_parent: Жизненный цикл проекта
+grand_parent: Управление жизненным циклом проекта
 nav_order: 1
 ---
 
