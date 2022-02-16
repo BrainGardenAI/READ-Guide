@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Reporting
-nav_order: 4
-parent: Project Lifecycle
-has_children: true
+title: Подготовка отчета
+nav_order: 1
+parent: Финализация проекта
+grand_parent: Жизненный цикл проекта
+has_children: false
 permalink: pages/project_lifecycle/reporting
 ---
 

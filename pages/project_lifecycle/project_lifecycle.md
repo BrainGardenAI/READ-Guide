@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project Lifecycle
+title: Жизненный цикл проекта
 nav_order: 3
 has_children: true
 permalink: pages/project_lifecycle

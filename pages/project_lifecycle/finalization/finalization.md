@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Завершение проекта
+title: Финализация проекта
 nav_order: 3
 parent: Жизненный цикл проекта
 has_children: true
 permalink: pages/project_lifecycle/finalization
 ---
 
-# Завершение проекта
+# Финализация проекта
 {: .no_toc }
