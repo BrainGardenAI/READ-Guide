@@ -1,8 +1,8 @@
 remote_theme: pmarsceill/just-the-docs
-# color_scheme: light
+color_scheme: bg
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/logo.png"
+# logo: "/assets/logo.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
