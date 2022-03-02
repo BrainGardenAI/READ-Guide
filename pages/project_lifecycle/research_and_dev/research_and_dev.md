@@ -9,3 +9,5 @@ permalink: pages/project_lifecycle/research_and_dev
 
 # Исследования и разработка
 {: .no_toc }
+
+![Исследования и разработка](/READ-framework/assets/dev_lifecycle.png)
