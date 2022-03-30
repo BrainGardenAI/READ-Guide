@@ -1,1 +1,1 @@
-Misc resources for REasearch And Development Framework (READ Framework)
+REsearch And Development Guide (READ Guide)
